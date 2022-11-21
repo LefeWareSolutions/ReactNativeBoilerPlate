@@ -1,0 +1,6 @@
+module Pods_DefaultReactNativeApp_DefaultReactNativeAppTests {
+  umbrella header "Pods-DefaultReactNativeApp-DefaultReactNativeAppTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
